@@ -1,1 +1,1 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/el-indioBR/Logo.png/blob/master/Logo%20Proffy.png?raw=true">
